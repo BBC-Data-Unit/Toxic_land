@@ -48,7 +48,7 @@ And the story pack [here](https://docs.google.com/document/d/1vX7D4y82r5gXbrQ_mN
 
 ## Partner usage
 
-The story featured as an iPlayer documentary _Britain's Toxic Secret_, which appeared on BBC Wales on 13 March. It was also developed into an [online story](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_ read by more than 640,000 people.
+The story featured as an iPlayer documentary _Britain's Toxic Secret_, which appeared on BBC Wales on 13 March. It was also developed into an [online story(https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) read by more than 640,000 people.
 
 The piece was used on bulletins across the BBC's national and regional network and a television package feature on Breakfast on the morning of Saturday, 15 March.~
 
