@@ -10,6 +10,8 @@ Those sites include former tips, tar pits and military facilities among many oth
 
 However, the lack of so-called “intrusive” studies, such as soil tests, could be leaving thousands of households at risk from serious contaminants including lead, arsenic and asbestos, some experts say.
 
+<img width="593" alt="Image" src="https://github.com/user-attachments/assets/9764674a-720a-4bd1-b4c1-28471ad05fe7" />
+
 The Department for the Environment, Farming and Rural Affairs (Defra) said it had commissioned a new report to look into the state of contaminated land across the country.
 
 Phil Hartley, a former environmental officer previously in charge of fixing Newcastle’s contaminated land, said the findings did not come as a surprise.
