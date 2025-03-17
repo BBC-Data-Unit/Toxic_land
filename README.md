@@ -2,7 +2,7 @@
 
 ## What's the Story?
 
-In March, 2025, the Shared Data Unit reported how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
+In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
 
 The collaboration with BBC Wales Investigates found only one-in-ten potentially “high risk” contamination sites in Great Britain have been properly inspected in the 25 years since a law was introduced to fix the toxic leftovers from the days of heavy industry.
 
@@ -48,7 +48,7 @@ And the story pack [here](https://docs.google.com/document/d/1vX7D4y82r5gXbrQ_mN
 
 ## Partner usage
 
-The story featured as an iPlayer documentary _Britain's Toxic Secret_, which appeared on BBC Wales on 13 March. It was also developed into an [online story(https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) read by more than 640,000 people.
+The story featured as an iPlayer documentary _Britain's Toxic Secret_, which appeared on BBC Wales on 13 March. It was also developed into an [online story](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) read by more than 640,000 people.
 
 The piece was used on bulletins across the BBC's national and regional network and a television package feature on Breakfast on the morning of Saturday, 15 March.~
 
