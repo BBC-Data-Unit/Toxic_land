@@ -1,6 +1,4 @@
-# Toxic_land
-
-## What's the Story?
+# Thousands of high-risk toxic sites unchecked due to lack of cash
 
 In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
 
