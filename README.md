@@ -2,7 +2,7 @@
 
 ## What's the Story?
 
-In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
+In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
 
 The collaboration with BBC Wales Investigates found only one-in-ten potentially “high risk” contamination sites in Great Britain have been properly inspected in the 25 years since a law was introduced to fix the toxic leftovers from the days of heavy industry.
 
